@@ -1,6 +1,5 @@
 #--- Script details ------------------------------------------------------------
 # Creation date: 02 December 2022
-# Client:        client
 # Project:       advent-of-code-2022
 # Description:   day_01
 # Author:        Nick Twort
